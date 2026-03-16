@@ -1,7 +1,6 @@
-pandas
-numpy
-mlxtend
 streamlit
+pandas
+mlxtend
 fastapi
 uvicorn
-requests
+altair==4.2.2
