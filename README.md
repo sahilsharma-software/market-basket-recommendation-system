@@ -38,7 +38,17 @@ FP-Growth Model
 ↓
 Recommended Products
 
----
+## 📸 Project Screenshots
+
+### Streamlit UI
+
+<img width="960" height="695" alt="image" src="https://github.com/user-attachments/assets/9d50c2fd-92c1-49d2-a077-2b56d1854ee8" />
+
+
+### FastAPI API Response
+
+<img width="942" height="119" alt="image" src="https://github.com/user-attachments/assets/01a9596d-4f12-4067-86f7-b880166effc3" />
+
 
 ## 📂 Project Structure
 
@@ -46,20 +56,26 @@ market-basket-analysis
 │
 ├── app
 │   └── app.py
-
+│
 ├── src
 │   ├── api.py
 │   └── recommend.py
-
+│
 ├── models
 │   └── rules.pkl
-
+│
 ├── data
 │   └── groceries.csv
-
+│
 ├── notebook
 │   └── fp-growth.ipynb
-
+│
+├── screenshots
+│   ├── ui.png
+│   └── api.png
+│
+├── requirements.txt
+│
 └── README.md
 
 ---
